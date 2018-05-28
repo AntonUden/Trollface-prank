@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trollface", "Trollface\Trollface.csproj", "{8162DA9D-4C8A-4072-B869-4D056B37BAF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8162DA9D-4C8A-4072-B869-4D056B37BAF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8162DA9D-4C8A-4072-B869-4D056B37BAF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8162DA9D-4C8A-4072-B869-4D056B37BAF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8162DA9D-4C8A-4072-B869-4D056B37BAF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E37B3AE-F2AB-401E-A644-F96382184A20}
+	EndGlobalSection
+EndGlobal
