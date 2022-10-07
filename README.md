@@ -1,4 +1,6 @@
-# Trollface-prank
-C# Prank that displays a trollface at the mouse pointer
+# !!! WARNING !!!
+This version of the project adds it self to autostart and is almost impossible to close.
 
-To close the program press alt + f4
+To remove the program boot into safe mode and remove it from the autostart folder.
+
+I take no responsibility if you get into trouble for using this.
